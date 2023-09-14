@@ -1,10 +1,10 @@
-<p align="center" style="color: green;">
+<p align="center" style="color: green; font-size:50; weight:500;">
    SERVO MOTOR
 </p>
 ## Sergio Rosario Sobrado Espinoza 20211848
 
 <p align="center">
-  <img src="[https://www.ejemplo.com/imagen_servo.jpg](https://potentiallabs.com/cart/image/cache/catalog/New%20Components-17/Futaba-S3003-550x550h.jpg)" alt="Servo Motor" width="300" height="200">
+  <img src="https://potentiallabs.com/cart/image/cache/catalog/New%20Components-17/Futaba-S3003-550x550h.jpg" alt="Servo Motor" width="300" height="200">
 </p>
 
 **1. Definición de un Servo Motor:**
