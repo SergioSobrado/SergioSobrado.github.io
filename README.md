@@ -1,5 +1,12 @@
-# SERVO MOTOR
+<p align="center" style="color: green;">
+   SERVO MOTOR
+</p>
 ## Sergio Rosario Sobrado Espinoza 20211848
+
+<p align="center">
+  <img src="[https://www.ejemplo.com/imagen_servo.jpg](https://potentiallabs.com/cart/image/cache/catalog/New%20Components-17/Futaba-S3003-550x550h.jpg)" alt="Servo Motor" width="300" height="200">
+</p>
+
 **1. Definición de un Servo Motor:**
    - Un servo motor es un dispositivo electromecánico que se utiliza para controlar con precisión el movimiento en una amplia gama de aplicaciones. Estos motores son capaces de girar hasta un ángulo específico y mantener esa posición con una alta precisión.
 
