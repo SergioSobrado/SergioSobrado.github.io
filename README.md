@@ -1,8 +1,9 @@
-<p align="center" style="color: green; font-size:50px; weight:500px;">
+<p align="center" style="color: blue; font-size:50px; weight:500px;">
    SERVO MOTOR
 </p>
-## Sergio Rosario Sobrado Espinoza 20211848
-
+<p align="center" style="color: #0cb7f2; font-size:25px;">
+         SERGIO ROSARIO SOBRADO ESPINOZA   20211848 
+</p>
 <p align="center">
   <img src="https://potentiallabs.com/cart/image/cache/catalog/New%20Components-17/Futaba-S3003-550x550h.jpg" alt="Servo Motor" width="300" height="200">
 </p>
@@ -31,4 +32,3 @@
 
 **7. Control y Programación:**
    - Los servo motores se controlan mediante señales PWM (modulación por ancho de pulso) y se pueden programar para realizar movimientos específicos. Los microcontroladores y PLCs son comunes para la programación y control de servo motores.
-
