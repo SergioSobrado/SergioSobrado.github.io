@@ -1,4 +1,4 @@
-<p align="center" style="color: green; font-size:50; weight:500;">
+<p align="center" style="color: green; font-size:50px; weight:500px;">
    SERVO MOTOR
 </p>
 ## Sergio Rosario Sobrado Espinoza 20211848
