@@ -37,7 +37,7 @@
    Proyectos donde mas se utiliza
 </h3>
 | Proyecto             | Descripción                                           |
-|----------------------|-------------------------------------------------------|
+|:---------------------:|:-----------------------------------------------------:|
 | Control de posición  | Utilizado para posicionar objetos con precisión.      |
 | Control de velocidad | Ajusta la velocidad de motores en aplicaciones móviles. |
 | Robótica             | Movimiento de brazos robóticos y articulaciones.      |
@@ -48,3 +48,4 @@
 | CNC                  | Control de ejes en máquinas de corte CNC.            |
 | Juegos de simulación | Simulación de movimiento en juegos y simuladores.    |
 | Automóviles RC       | Control de dirección y aceleración en vehículos RC.  |
+
