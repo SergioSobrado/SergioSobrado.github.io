@@ -33,7 +33,7 @@
 **7. Control y Programación:**
    - Los servo motores se controlan mediante señales PWM (modulación por ancho de pulso) y se pueden programar para realizar movimientos específicos. Los microcontroladores y PLCs son comunes para la programación y control de servo motores.
 
-<h3 align="center">
+<h3 align="center" style="color:#0cb7f2;">
    Proyectos donde mas se utiliza
 </h3>
    
