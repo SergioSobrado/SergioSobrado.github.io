@@ -1,6 +1,6 @@
-<p align="center" style="color: blue; font-size:50px; weight:500px;">
+<h1 align="center" style="color: blue;">
    SERVO MOTOR
-</p>
+</h1>
 <p align="center" style="color: #0cb7f2; font-size:25px;">
          SERGIO ROSARIO SOBRADO ESPINOZA   20211848 
 </p>
@@ -32,3 +32,21 @@
 
 **7. Control y Programación:**
    - Los servo motores se controlan mediante señales PWM (modulación por ancho de pulso) y se pueden programar para realizar movimientos específicos. Los microcontroladores y PLCs son comunes para la programación y control de servo motores.
+
+<h3 align="center">
+   Proyectos donde mas se utiliza
+</h3>
+
+| Proyecto             | Descripción                                           |
+|----------------------|-------------------------------------------------------|
+| Control de posición  | Utilizado para posicionar objetos con precisión.      |
+| Control de velocidad | Ajusta la velocidad de motores en aplicaciones móviles. |
+| Robótica             | Movimiento de brazos robóticos y articulaciones.      |
+| Automatización       | Control de puertas automáticas, cortinas, etc.        |
+| Impresión 3D         | Control de ejes para imprimir objetos en 3D.         |
+| Seguimiento solar    | Rastreo del sol en paneles solares.                  |
+| Aero modelismo       | Control de superficies en aviones RC.                |
+| CNC                  | Control de ejes en máquinas de corte CNC.            |
+| Juegos de simulación | Simulación de movimiento en juegos y simuladores.    |
+| Automóviles RC       | Control de dirección y aceleración en vehículos RC.  |
+
