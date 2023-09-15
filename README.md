@@ -36,16 +36,15 @@
 <h3 align="center">
    Proyectos donde mas se utiliza
 </h3>
-
-                                 | Proyecto             | Descripción                                           |
-                                 |----------------------|-------------------------------------------------------|
-                                 | Control de posición  | Utilizado para posicionar objetos con precisión.      |
-                                 | Control de velocidad | Ajusta la velocidad de motores en aplicaciones móviles. |
-                                 | Robótica             | Movimiento de brazos robóticos y articulaciones.      |
-                                 | Automatización       | Control de puertas automáticas, cortinas, etc.        |
-                                 | Impresión 3D         | Control de ejes para imprimir objetos en 3D.         |
-                                 | Seguimiento solar    | Rastreo del sol en paneles solares.                  |
-                                 | Aero modelismo       | Control de superficies en aviones RC.                |
-                                 | CNC                  | Control de ejes en máquinas de corte CNC.            |
-                                 | Juegos de simulación | Simulación de movimiento en juegos y simuladores.    |
-                                 | Automóviles RC       | Control de dirección y aceleración en vehículos RC.  |
+| Proyecto             | Descripción                                           |
+|----------------------|-------------------------------------------------------|
+| Control de posición  | Utilizado para posicionar objetos con precisión.      |
+| Control de velocidad | Ajusta la velocidad de motores en aplicaciones móviles. |
+| Robótica             | Movimiento de brazos robóticos y articulaciones.      |
+| Automatización       | Control de puertas automáticas, cortinas, etc.        |
+| Impresión 3D         | Control de ejes para imprimir objetos en 3D.         |
+| Seguimiento solar    | Rastreo del sol en paneles solares.                  |
+| Aero modelismo       | Control de superficies en aviones RC.                |
+| CNC                  | Control de ejes en máquinas de corte CNC.            |
+| Juegos de simulación | Simulación de movimiento en juegos y simuladores.    |
+| Automóviles RC       | Control de dirección y aceleración en vehículos RC.  |
