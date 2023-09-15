@@ -36,9 +36,6 @@
 <h3 align="center">
    Proyectos donde mas se utiliza
 </h3>
-
-<div>
-z
    
 | Proyecto             | Descripción                                           |
 |:---------------------:|:-----------------------------------------------------:|
@@ -53,5 +50,4 @@ z
 | Juegos de simulación | Simulación de movimiento en juegos y simuladores.    |
 | Automóviles RC       | Control de dirección y aceleración en vehículos RC.  |
 
-</div>
 
