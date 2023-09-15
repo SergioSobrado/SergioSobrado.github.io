@@ -37,7 +37,7 @@
    Proyectos donde mas se utiliza
 </h3>
    
-| Proyecto             | Descripción                                           |
+| Proyectos             | Descripción                                           |
 |:---------------------:|:-----------------------------------------------------:|
 | Control de posición  | Utilizado para posicionar objetos con precisión.      |
 | Control de velocidad | Ajusta la velocidad de motores en aplicaciones móviles. |
